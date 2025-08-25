@@ -1,4 +1,3 @@
-# Telecommunications-Trainer-Kit
 # 📡 Telecommunications Trainer Kit
 
 > **Associated with:**  
