@@ -38,7 +38,6 @@ This trainer kit aims to **bridge theoretical concepts with practical implementa
 
 ## 📷 Demo
 
-- ![Telecommunications Trainer Kit]
  <img src="https://i.postimg.cc/wTg9ZHMM/Gemini-Generated-Image-v5iwvjv5iwvjv5iw.png" width="300" />
 
 ## 👨‍🏫 Suitable For
