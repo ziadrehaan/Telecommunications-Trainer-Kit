@@ -36,7 +36,10 @@ This trainer kit aims to **bridge theoretical concepts with practical implementa
 - Circuit Testing & Debugging  
 - Analog & Digital Signal Processing
 
+## 📷 Demo
+
 - ![Telecommunications Trainer Kit](https://i.postimg.cc/wTg9ZHMM/Gemini-Generated-Image-v5iwvjv5iwvjv5iw.png)
+ <img src="https://i.postimg.cc/wTg9ZHMM/Gemini-Generated-Image-v5iwvjv5iwvjv5iw.png" width="105" />
 
 ## 👨‍🏫 Suitable For
 - Electronics and Communication Engineering students  
