@@ -1,7 +1,5 @@
 # 📡 Telecommunications Trainer Kit
 
-![Telecommunications Trainer Kit](https://i.postimg.cc/wTg9ZHMM/Gemini-Generated-Image-v5iwvjv5iwvjv5iw.png)
-
 > **Associated with:**  
 > *Higher Institute of Engineering and Technology – Kafr Elsheikh*
 
@@ -37,6 +35,8 @@ This trainer kit aims to **bridge theoretical concepts with practical implementa
 - Integrated Circuit (IC) Design  
 - Circuit Testing & Debugging  
 - Analog & Digital Signal Processing
+
+- ![Telecommunications Trainer Kit](https://i.postimg.cc/wTg9ZHMM/Gemini-Generated-Image-v5iwvjv5iwvjv5iw.png)
 
 ## 👨‍🏫 Suitable For
 - Electronics and Communication Engineering students  
