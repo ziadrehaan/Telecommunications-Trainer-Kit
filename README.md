@@ -1,6 +1,6 @@
 # 📡 Telecommunications Trainer Kit
 
-![Telecommunications Trainer Kit]([https://raw.githubusercontent.com/YourUsername/YourRepoName/main/telecom-trainer.png](https://i.postimg.cc/wTg9ZHMM/Gemini-Generated-Image-v5iwvjv5iwvjv5iw.png))
+![Telecommunications Trainer Kit](https://i.postimg.cc/wTg9ZHMM/Gemini-Generated-Image-v5iwvjv5iwvjv5iw.png)
 
 > **Associated with:**  
 > *Higher Institute of Engineering and Technology – Kafr Elsheikh*
