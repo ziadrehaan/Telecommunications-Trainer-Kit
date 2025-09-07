@@ -1,5 +1,7 @@
 # 📡 Telecommunications Trainer Kit
 
+![Telecommunications Trainer Kit]([https://raw.githubusercontent.com/YourUsername/YourRepoName/main/telecom-trainer.png](https://i.postimg.cc/wTg9ZHMM/Gemini-Generated-Image-v5iwvjv5iwvjv5iw.png))
+
 > **Associated with:**  
 > *Higher Institute of Engineering and Technology – Kafr Elsheikh*
 
@@ -38,13 +40,13 @@ This trainer kit aims to **bridge theoretical concepts with practical implementa
 
 ## 👨‍🏫 Suitable For
 - Electronics and Communication Engineering students  
-- Technical trainig institutes  
+- Technical training institutes  
 - Lab-based telecom learning environments
-  ---
-  > 📎 *For academic or educational use only.*
 
+---
+
+> 📎 *For academic or educational use only.*
 
 <div align="right">
-<a href="mailto:zezorehan938@gmail.com">𝓩𝓲𝓪𝓭𝓻𝓮𝓱𝓪𝓪𝓷</a>  
-
+<a href="mailto:zezorehan938@gmail.com">𝓩𝓲𝓪𝓭𝓻𝓮𝓱𝓪𝓪𝓷</a>
 </div>
