@@ -49,6 +49,9 @@ This trainer kit aims to **bridge theoretical concepts with practical implementa
 
 > 📎 *For academic or educational use only.*
 
-<div align="right">
-<a href="mailto:zezorehan938@gmail.com">𝓩𝓲𝓪𝓭𝓻𝓮𝓱𝓪𝓪𝓷</a>
-</div>
+<p align="right">
+  <img src="https://i.postimg.cc/yxy6x7F6/image.png" width="32" valign="middle">
+  <a href="mailto:zezorehan938@gmail.com" style="font-weight:bold; font-size:20px; text-decoration:underline; color:#2e89ff;">
+    𝓩𝓲𝓪𝓭𝓻𝓮𝓱𝓪𝓪𝓷
+  </a>
+</p>
